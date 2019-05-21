@@ -1,0 +1,22 @@
+{
+  "name": "julcash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jul420/julcash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jul420/julcash/issues"
+  },
+  "homepage": "https://github.com/jul420/julcash#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
